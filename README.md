@@ -2,8 +2,8 @@
 
 Este é um projeto simples de **contador** desenvolvido com **React**, **JavaScript** e **CSS**.  
 O contador permite **adicionar** e **subtrair** valores, mas **não diminui abaixo de zero**.
-
----
+<p>🔗 Acesse o projeto online: https://to-do-list-dg.netlify.app</p>
+<hr>
 
 ## 🛠 Tecnologias Utilizadas
 
